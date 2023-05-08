@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://eed-react-ts.vercel.app/
+Link para Demonstração: https://eed-react-ts.vercel.app/
 
 Aplicação desenvolvida para portifólio.<br>
 A aplicação consiste em um feed moderno, onde as usuários podem compartilhar suas ideias por meio de postagens, comentários e aplausos.
