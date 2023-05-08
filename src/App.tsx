@@ -30,7 +30,7 @@ const posts: PostType[] = [
     author: {
       avatarUrl: 'https://github.com/maykbrito.png',
       name: 'Mayk Brito',
-      role: 'Educator',
+      role: 'Educador',
     },
     content: [
       { type: 'paragraph', content: 'Pessoal,' },
