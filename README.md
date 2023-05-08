@@ -5,11 +5,11 @@
 
 https://wmazoni-sds1.netlify.app
 
-Aplicação desenvolvida para portifólio.
-A aplicação consiste em um feed moderno, onde as usuários podem compartilhar suas ideias por meio de postagens, comentar e aplaudir.
+Aplicação desenvolvida para portifólio.<br>
+A aplicação consiste em um feed moderno, onde as usuários podem compartilhar suas ideias por meio de postagens, comentários e aplausos.
 
 ## Layout
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](./src/assets/Apresenta%C3%A7%C3%A3o%20Feed.png)
 
 
 # Tecnologias utilizadas
