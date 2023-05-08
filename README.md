@@ -1,9 +1,9 @@
-# Social Feed
+# Social Feed com React e TypeScript
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+https://eed-react-ts.vercel.app/
 
 Aplicação desenvolvida para portifólio.<br>
 A aplicação consiste em um feed moderno, onde as usuários podem compartilhar suas ideias por meio de postagens, comentários e aplausos.
@@ -11,10 +11,20 @@ A aplicação consiste em um feed moderno, onde as usuários podem compartilhar 
 ## Layout
 ![Web 1](./src/assets/Apresenta%C3%A7%C3%A3o%20Feed.png)
 
+# Funcionalidades 
+* Postagens
+* Comentários
+* Aplausos
+* Delete de comentários
+* Data de publicação & de comentário
+
+# Componentes
+* Posts
+* Comentários
+* Avatares
+* Header
 
 # Tecnologias utilizadas
-
-## Front end
 - HTML / CSS / JS / 
 - ReactJS
 - TypeScript
@@ -24,7 +34,6 @@ A aplicação consiste em um feed moderno, onde as usuários podem compartilhar 
 
 # Como executar o projeto
 
-## Front end web
 Pré-requisitos: npm / yarn
 
 ```bash
