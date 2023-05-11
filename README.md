@@ -1,5 +1,5 @@
 # Social Feed com React e TypeScript
-![NPM](https://img.shields.io/npm/l/react)
+![NPM](https://img.shields.io/badge/license-MIT-%23259db9)
 
 # Sobre o projeto
 
